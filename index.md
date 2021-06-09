@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## PsybeR-Cat Welcomes You
 
 You can use the [editor on GitHub](https://github.com/Noobs-in-Research-and-Development/PsybeR-Cat/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
